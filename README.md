@@ -1,4 +1,4 @@
-# Aduaan
+# Aduaan™
 
 A mobile nutrition tracking application designed to help users understand and monitor their daily nutritional intake.
 
